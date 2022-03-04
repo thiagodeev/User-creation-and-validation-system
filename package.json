@@ -1,0 +1,20 @@
+{
+  "name": "user-creation-and-validation-system",
+  "version": "1.0.0",
+  "description": "A small user creation and validation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagodeev/User-creation-and-validation-system.git"
+  },
+  "author": "Thiago Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagodeev/User-creation-and-validation-system/issues"
+  },
+  "homepage": "https://github.com/thiagodeev/User-creation-and-validation-system#readme",
+  "type": "module"
+}
