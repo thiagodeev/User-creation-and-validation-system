@@ -1,11 +1,11 @@
 export class User{
-    static usersNumber = 0;
+    static numberOfUsers = 0;
 
     constructor(name, email){
         this.#name = name;
         this.#email = email;
 
-        User.usersNumber ++;
+        User.numberOfUsers ++;
     };
 
     get name(){
